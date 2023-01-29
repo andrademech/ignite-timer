@@ -43,3 +43,8 @@ PropDrilling
 quando temos muitas propriedades que precisam ser passadas para um componente filho, podemos utilizar o prop drilling, que é passar as propriedades de um componente pai para um componente filho, e assim sucessivamente, até chegar no componente que precisa da propriedade.
 
 Context API -> Permite compartilharmos informações entre componentes sem precisar passar as propriedades de um componente pai para um componente filho, e assim sucessivamente, até chegar no componente que precisa da propriedade.
+
+## useReducer()
+
+É usado para armazenar informações que podem ser alteradas, como um estado. Geralmente são informações mais complexas, como um array ou um objeto.
+
