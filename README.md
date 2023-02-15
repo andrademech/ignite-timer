@@ -1,4 +1,4 @@
-# Blog de Posts
+# Pomodoro Timer
 
 This project was build using React.
 
